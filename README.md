@@ -1,14 +1,10 @@
 # Steps to set up in your local
 
 
-### Prerequisites
-
-**Node version 18.x.x**
-
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-lms-platform.git
+git clone git@github.com:TriptiArora/Project-LMS..git
 ```
 
 ### Install packages
